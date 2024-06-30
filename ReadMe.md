@@ -1,6 +1,6 @@
 # Emlak Uygulaması
 
-İçerisinde zafiyetler barındıran Güvenli Yazılım Gelitşirme dersinin final proje ödevidir.
+İçerisinde zafiyet içermeyen Güvenli Yazılım Gelitşirme dersinin final proje ödevidir.
 
 # Kurulum
 
